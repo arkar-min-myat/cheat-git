@@ -1,0 +1,34 @@
+03 Day to Day Work
+
+$ git status
+Display the status of working directory
+
+$ git add [file]
+Add a file tgo the staging area
+
+$ git diff [file]
+Show changes between working directory and staging area
+
+$ git diff --staged [file]
+Shows any changes between staging area ad the repository
+
+$ git checkout -- [file]
+Discard changes in working directory
+
+$ git reset [file]
+Revert your repository to a previous known working state
+
+$ git commit
+Create a new commit from changes added to the staging area
+
+$ git rm [file]
+Remove file from working directory and staging area
+
+$ git stash
+Put current changes in your working directory into stash for later use
+
+$ git stash pop
+Apply stored stash content into working directory and clear stash
+
+$ git stash drop
+Delete a specific stash from all your previous stashes
