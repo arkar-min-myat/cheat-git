@@ -1,0 +1,5 @@
+05 Review Work
+
+$ git log [-n count]
+List commit history of current branch
+
