@@ -1,0 +1,16 @@
+04 Git Branching Model
+
+$ git branch [-a]
+List all local branches in repository
+
+$ git branch [branch]
+Create a new branch referencing to current HEAD
+
+$ git checkout [-b] [branch_name]
+Switch working directory to specific branch
+
+$ git merge [from name]
+Join specificed [from name] branch into your current branch
+
+$ git branch -d [name]
+Remove selected branch
