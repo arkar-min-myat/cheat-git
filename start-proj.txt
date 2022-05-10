@@ -1,0 +1,7 @@
+02 Starting a Project
+
+$ git init [Project Name]
+Create a new local repository in current directory
+
+$ git clone [project_url]
+Download a project with entire history from the remote repository
